@@ -3,3 +3,4 @@ line 2
 line 3
 revert 1
 revert 2
+revert 3
